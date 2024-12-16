@@ -1,0 +1,50 @@
+.header {
+  background-color: #fdc89a;
+  padding: 20px 0px;
+}
+
+.header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.header nav a {
+  margin: 10px 10px;
+  text-decoration: none;
+  color: #000000;
+  font-size: 20px;
+}
+
+.header nav a:hover {
+  color: #000000;
+  text-decoration: solid;
+}
+
+.header nav a img {
+  height: 100px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.buttons .logo {
+  margin-right: 50px;
+}
+
+.buttons .logo:last-child {
+  margin-right: 0;
+}
+
+.buttons .logo img {
+  width: 200px;
+  height: auto;
+  margin-top: 30px;
+}

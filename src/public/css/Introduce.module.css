@@ -1,0 +1,23 @@
+body {
+  background-color: #fcf3e4; /* 배경색 설정 */
+  margin: 0; /* 기본 여백 제거 */
+  padding: 0; /* 기본 패딩 제거 */
+  height: 100%; /* 화면 높이 전체를 채움 */
+}
+
+.orangebox-1 {
+  margin: 20px 0;
+  height: 412px;
+  width: 359px;
+  border-radius: 10%;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
